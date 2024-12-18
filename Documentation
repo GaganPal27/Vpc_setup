@@ -43,7 +43,7 @@ variables.tf and terraform.tfvars
 
 
 Usage:
-1. Clone the repository: git clone https://github.com/GaganPal27/vpc-setup.git
+1. Clone the repository: git clone https://github.com/GaganPal27/aws-vpc-setup-terraform.git
 2. Navigate to the project directory: cd vpc-setup
 3. Initialize terraform: terraform init
 4. terraform plan
